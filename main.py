@@ -1,4 +1,4 @@
-""" Sorteador de dados """
+""" Sorteador de dados com dados """
 
 import random
 
